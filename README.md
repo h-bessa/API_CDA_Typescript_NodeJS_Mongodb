@@ -1,4 +1,4 @@
-# API CRUD CDA - Simplon
+# API CRUD Sample
 
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
